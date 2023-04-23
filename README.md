@@ -6,7 +6,7 @@ The AutomotiveGroup project is a C# project created using Visual Studio. It is d
 The AutomotiveGroup project is structured into several main folders:
 <ul>
 <li>Library : contains the main structure of the program.</li>
-<li>App : contains the Microsoft Forms and other program that I used while create.</li>
+<li>App :  contains the Microsoft Forms and other programs that were used during the creation of the application.</li>
 </ul>
 
 In addition to these folders, there is a single UML diagram included in the project that illustrates the overall structure of the application. The UML diagram shows the classes used in the project, as well as their relationships and the methods they contain.
