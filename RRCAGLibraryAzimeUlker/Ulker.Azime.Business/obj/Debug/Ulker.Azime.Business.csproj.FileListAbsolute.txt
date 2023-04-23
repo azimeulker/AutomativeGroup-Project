@@ -1,0 +1,12 @@
+C:\Users\azime\source\repos\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.csproj.AssemblyReference.cache
+C:\Users\azime\source\repos\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.csproj.CoreCompileInputs.cache
+C:\Users\azime\source\repos\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\bin\Debug\Ulker.Azime.Business.dll
+C:\Users\azime\source\repos\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\bin\Debug\Ulker.Azime.Business.pdb
+C:\Users\azime\source\repos\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.dll
+C:\Users\azime\source\repos\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.pdb
+C:\Users\azime\source\repos\Assignment6AzimeUlker\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\bin\Debug\Ulker.Azime.Business.dll
+C:\Users\azime\source\repos\Assignment6AzimeUlker\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\bin\Debug\Ulker.Azime.Business.pdb
+C:\Users\azime\source\repos\Assignment6AzimeUlker\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.csproj.AssemblyReference.cache
+C:\Users\azime\source\repos\Assignment6AzimeUlker\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.csproj.CoreCompileInputs.cache
+C:\Users\azime\source\repos\Assignment6AzimeUlker\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.dll
+C:\Users\azime\source\repos\Assignment6AzimeUlker\RRCAGLibraryAzimeUlker\Ulker.Azime.Business\obj\Debug\Ulker.Azime.Business.pdb
