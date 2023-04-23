@@ -1,4 +1,6 @@
-# AutomativeGroup Project
+# AutomativeGroup Project :car:
+
+
 The AutomotiveGroup project is a C# project created using Visual Studio. It is designed to showcase the functionality of a fictional automotive group, which could be used by car dealerships or other automotive businesses.
 
 ## Project Structure 
