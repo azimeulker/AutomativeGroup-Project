@@ -30,6 +30,10 @@ The video showcases how the Sales Quote and Car Wash Form features work, as well
 
 
 
-https://user-images.githubusercontent.com/115192426/233857174-08789bcd-403c-4f53-8575-c3ac27451b02.mp4
+
+
+https://user-images.githubusercontent.com/115192426/233857557-c890ecc4-7646-48bc-a8f8-58511d15a930.mp4
+
+
 
 
