@@ -1,5 +1,6 @@
 # AutomativeGroup-Project
 
+![project-design](https://user-images.githubusercontent.com/115192426/233854596-ac8b8acb-e119-4f21-a665-c32b1cdef1c9.png)
 
 
 
