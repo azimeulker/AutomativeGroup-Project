@@ -11,7 +11,7 @@ The AutomotiveGroup project is structured into several main folders:
 <li>App :  contains the Microsoft Forms and other programs that were used during the creation of the application.</li>
 </ul>
 
-In addition to these folders, there is a single UML diagram included in the project that illustrates the overall structure of the application. The UML diagram shows the classes used in the project, as well as their relationships and the methods they contain.
+In addition to these folders, there are UML diagrams included in the project that illustrates the overall structure of the application. The UML diagram shows the classes used in the project, as well as their relationships and the methods they contain.
 
 ![design1](https://user-images.githubusercontent.com/115192426/233854890-a5100e49-c414-420b-8e6c-fda5cb24cbe8.png)
 ![design2](https://user-images.githubusercontent.com/115192426/233854842-5d7837bc-026b-49b4-881f-a1cefb1f56b3.png)
